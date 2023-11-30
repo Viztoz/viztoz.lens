@@ -1,1 +1,4 @@
-# viztoz.lens
+# viztoz.ns
+
+
+hey that's my new contract
